@@ -5,3 +5,11 @@ Organizando os estudos BOOTCAMP e demais cursos concluidos na [Digital Innovatio
 ## Links Uteis
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
+
+## :notebook: Atividades
+
+-[x] Seja Protagonista neste BOOT CAMP;
+
+-[x] Introdução ao Git e ao GitHub;
