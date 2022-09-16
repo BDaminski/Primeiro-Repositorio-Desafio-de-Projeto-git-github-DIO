@@ -10,6 +10,6 @@ Organizando os estudos BOOTCAMP e demais cursos concluidos na [Digital Innovatio
 
 ## :notebook: Atividades
 
--[x] Seja Protagonista neste BOOT CAMP;
+- [x] Seja Protagonista neste BOOT CAMP;
 
--[x] Introdução ao Git e ao GitHub;
+- [x] Introdução ao Git e ao GitHub;
