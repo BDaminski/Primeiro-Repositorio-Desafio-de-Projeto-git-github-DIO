@@ -1,2 +1,7 @@
-# Primeiro-Repositorio-Desafio-de-Projeto-git-github-DIO
-Primeiro desafio de projeto git/github (Aula Introducao ao git e git/hub)
+# 📚Desafio de Projeto sobre Git/GitHub da DIO
+Reposotorio criado para o Desafio de Projeto. 
+Organizando os estudos BOOTCAMP e demais cursos concluidos na [Digital Innovation one - DIO](https://www.dio.me/)
+
+## Links Uteis
+
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
